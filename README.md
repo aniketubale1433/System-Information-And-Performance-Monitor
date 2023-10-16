@@ -26,4 +26,12 @@ performance, such as CPU usage, memory utilization, disk activity, and network p
 
 ## project working Snapshots
 
+1.
 ![Screenshot (138)](https://github.com/aniketubale1433/System-Information-And-Performance-Monitor/assets/122338093/045a1b48-8a97-4d05-99e9-4461876bc324)
+
+2. 
+![Screenshot (139)](https://github.com/aniketubale1433/System-Information-And-Performance-Monitor/assets/122338093/cc2ace35-7f67-47ef-aa6f-cfadac64b1aa)
+
+3.
+
+
