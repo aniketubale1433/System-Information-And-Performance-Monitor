@@ -33,5 +33,7 @@ performance, such as CPU usage, memory utilization, disk activity, and network p
 ![Screenshot (139)](https://github.com/aniketubale1433/System-Information-And-Performance-Monitor/assets/122338093/cc2ace35-7f67-47ef-aa6f-cfadac64b1aa)
 
 3.
+![Screenshot (141)](https://github.com/aniketubale1433/System-Information-And-Performance-Monitor/assets/122338093/a1cc6924-1078-446e-b95d-24441f7dab34)
 
+4.
 
