@@ -23,3 +23,7 @@ performance, such as CPU usage, memory utilization, disk activity, and network p
 1. Python Programming Language
 2. Microsoft PowerBI
 3. SQL Server management Studio
+
+## project working Snapshots
+
+![Screenshot (138)](https://github.com/aniketubale1433/System-Information-And-Performance-Monitor/assets/122338093/045a1b48-8a97-4d05-99e9-4461876bc324)
